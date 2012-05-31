@@ -1,4 +1,5 @@
 Stoperica
 
 Aplikacija za merenje vremena u satima, minutima, sekundama i stotinkama. Za pustanje se koristi dugme Start, pauziranje Pauza i Reset za resetovanje.
-Dok stoperica meri cuje se zvuk stoperice koji je moguce mutirati na dugme.
+Dok stoperica meri cuje se zvuk stoperice koji je moguce mutirati na dugme. Takodje postoji opcija da se cuvaju rezultati bez potrebe da se zaustavlja 
+stoperica.
